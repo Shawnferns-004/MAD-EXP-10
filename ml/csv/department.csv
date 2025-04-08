@@ -1,0 +1,430 @@
+image_path,assigned department,x_center,y_center,width,height
+./data/images/flood_1.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_2.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_3.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_4.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_5.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_6.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_7.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_8.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_9.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_10.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_11.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_12.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_13.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_14.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_15.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_16.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_17.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_18.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_19.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_20.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_21.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_22.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_23.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_24.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_25.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_26.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_27.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_28.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_29.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_30.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_31.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_32.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_33.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_34.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_35.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_36.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_37.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_38.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_39.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_40.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_41.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_42.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_43.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_44.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_45.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_46.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_47.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_48.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_49.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_50.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_51.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_52.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_53.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_54.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_55.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_56.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_57.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_58.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_59.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_60.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_61.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_62.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_63.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_64.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_65.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_66.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_67.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_68.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_69.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_70.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_71.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_72.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_73.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_74.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_75.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_76.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_77.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_78.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_79.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_80.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_81.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_82.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_83.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_84.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_85.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_86.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_87.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_88.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_89.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_90.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_91.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_92.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_93.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_94.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_95.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_96.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_97.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_98.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/flood_99.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/flood_100.jpg,City Maintenance,0.5,0.5,1.0,1.0
+./data/images/theft_1.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_2.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_3.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_4.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_5.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_6.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_7.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_8.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_9.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_10.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_11.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_12.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_13.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_14.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_15.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_16.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_17.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_18.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_19.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_20.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_21.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_22.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_23.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_24.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_25.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_26.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_27.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_28.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_29.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_30.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_31.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_32.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_33.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_34.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_35.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_36.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_37.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_38.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_39.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_40.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_41.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_42.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_43.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_44.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_45.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_46.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_47.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_48.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_49.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_50.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_51.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_52.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_53.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_54.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_55.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_56.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_57.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_58.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_59.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_60.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_61.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_62.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_63.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_64.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_65.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_66.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_67.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_68.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_69.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_70.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_71.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_72.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_73.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_74.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_75.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_76.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_77.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_78.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_79.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_80.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_81.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_82.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_83.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_84.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_85.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_86.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_87.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_88.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_89.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_90.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_91.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_92.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_93.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_94.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_95.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_96.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_97.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_98.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_99.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/theft_100.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/accident_1.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/accident_2.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_3.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/accident_4.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_5.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_6.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_7.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_8.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_9.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_10.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_11.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_12.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_13.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_14.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_15.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_16.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_17.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_18.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_19.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_20.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_21.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_22.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_23.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_24.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_25.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_26.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_27.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_28.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_29.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_30.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_31.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_32.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_33.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_34.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_35.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_36.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_37.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_38.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_39.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_40.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_41.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_42.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_43.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_44.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_45.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_46.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_47.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_48.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_49.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_50.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_51.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_52.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_53.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_54.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_55.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_56.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_57.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_58.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_59.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_60.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_61.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_62.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_63.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_64.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_65.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_66.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_67.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_68.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_69.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_70.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_71.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_72.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_73.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_74.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_75.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_76.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_77.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_78.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_79.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_80.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_81.jpg,Police,0.5,0.5,1.0,1.0
+./data/images/accident_82.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_83.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_84.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_85.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_86.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_87.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_88.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_89.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_90.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_91.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_92.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_93.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_94.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_95.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_96.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_97.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_98.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_99.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/accident_100.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/fire_1.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_2.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_3.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_4.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_5.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_6.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_7.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_8.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_9.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_10.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_11.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_12.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_13.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_14.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_15.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_16.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_17.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_18.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_19.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_20.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_21.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_22.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_23.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_24.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_25.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_26.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_27.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_28.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_29.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_30.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_31.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_32.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_33.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_34.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_35.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_36.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_37.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_38.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_39.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_40.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_41.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_42.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_43.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_44.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_45.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_46.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_47.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_48.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_49.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_50.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_51.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_52.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_53.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_54.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_55.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_56.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_57.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_58.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_59.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_60.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_61.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_62.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_63.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_64.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_65.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_66.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_67.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_68.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_69.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_70.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_71.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_72.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_73.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_74.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_75.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_76.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_77.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_78.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_79.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_80.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_81.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_82.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_83.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_84.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_85.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_86.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_87.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_88.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_89.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_90.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_91.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_92.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_93.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_94.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_95.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_96.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_97.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_98.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_99.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/fire_100.jpg,Fire Department,0.5,0.5,1.0,1.0
+./data/images/earthquake_1.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/earthquake_2.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/earthquake_3.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/earthquake_4.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/earthquake_5.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/earthquake_6.jpg,Disaster Management,0.5,0.5,1.0,1.0
+./data/images/earthquake_7.jpg,Disaster Management,0.5,0.5,1.0,1.0
+./data/images/earthquake_8.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/earthquake_9.jpg,Disaster Management,0.5,0.5,1.0,1.0
+./data/images/earthquake_10.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/earthquake_11.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/earthquake_12.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/earthquake_13.jpg,Disaster Management,0.5,0.5,1.0,1.0
+./data/images/earthquake_14.jpg,Emergency Services,0.5,0.5,1.0,1.0
+./data/images/drink_drive_1.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_2.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_3.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_4.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_5.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_6.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_7.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_8.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_9.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_10.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_11.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_12.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_13.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_14.jpg,Traffic Police,0.5,0.5,1.0,1.0
+./data/images/drink_drive_15.jpg,Traffic Police,0.5,0.5,1.0,1.0

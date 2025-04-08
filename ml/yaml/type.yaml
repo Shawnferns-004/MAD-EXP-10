@@ -1,0 +1,11 @@
+names:
+- Accident
+- Drink and Drive
+- Earthquake
+- Fire
+- Flood
+- Theft
+nc: 6
+test: C:/Users/shawn_h1mtka4/OneDrive/Desktop/AlertX/ml/data/type/images
+train: C:/Users/shawn_h1mtka4/OneDrive/Desktop/AlertX/ml/data/type/images
+val: C:/Users/shawn_h1mtka4/OneDrive/Desktop/AlertX/ml/data/type/images

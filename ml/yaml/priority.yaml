@@ -1,0 +1,9 @@
+names:
+- Critical
+- High
+- Low
+- Medium
+nc: 4
+test: C:/Users/shawn_h1mtka4/OneDrive/Desktop/AlertX/ml/data/priority/images
+train: C:/Users/shawn_h1mtka4/OneDrive/Desktop/AlertX/ml/data/priority/images
+val: C:/Users/shawn_h1mtka4/OneDrive/Desktop/AlertX/ml/data/priority/images

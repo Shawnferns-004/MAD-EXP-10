@@ -1,0 +1,11 @@
+names:
+- City Maintenance
+- Disaster Management
+- Emergency Services
+- Fire Department
+- Police
+- Traffic Police
+nc: 6
+test: C:/Users/shawn_h1mtka4/OneDrive/Desktop/AlertX/ml/data/department/images
+train: C:/Users/shawn_h1mtka4/OneDrive/Desktop/AlertX/ml/data/department/images
+val: C:/Users/shawn_h1mtka4/OneDrive/Desktop/AlertX/ml/data/department/images
